@@ -5,3 +5,5 @@ First tutorial 1/31/2018
 This is my first time to type codes in github though I've heard of this website early before. I hope I could create some magic!
 
 This is my second time. Come on!
+
+This is my third time. Practice!
